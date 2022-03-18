@@ -1,0 +1,18 @@
+/*mystyle.css*/
+
+body{
+    background-color: aqua;
+    padding: 30px;
+}
+
+img{
+  position: relative; 
+    left: 50ch; 
+    top: 2px;
+}
+.info {
+  text-align: center; 
+  position: absolute; 
+   top: 35ch; 
+   left: 25ch; 
+}
